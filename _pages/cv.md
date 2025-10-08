@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <div style="margin: 20px 0;">
-  <a href="{{ '/files/Subhajit_Bag_CV.pdf' | relative_url }}" class="btn btn-primary" target="_blank" download>
+  <a href="{{ '/files/SubhajitBag_CV.pdf' | relative_url }}" class="btn btn-primary" target="_blank" download>
     Download CV
   </a>
 </div>
