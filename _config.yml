@@ -23,7 +23,7 @@ repository               : "shuvo-iitkgp/shuvo-iitkgp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Subhajit Bag"
   pronouns         : # example: "she/her"  
   bio              : "MS Analytics @ Georgia Tech | Ex-American Express | IIT KGP Grad | Machine Learning"
