@@ -23,7 +23,7 @@ repository               : "shuvo-iitkgp/shuvo-iitkgp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/profile.png"
+  avatar           : "images/profile.png"
   name             : "Subhajit Bag"
   pronouns         : # example: "she/her"  
   bio              : "MS Analytics @ Georgia Tech | Ex-American Express | IIT KGP Grad | Machine Learning"
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7626-0074"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
