@@ -18,7 +18,7 @@ Education
 ======
 * **M.S. in Analytics**, Georgia Institute of Technology, Expected Dec 2026  
   Focus: Machine Learning, Computational Statistics, Data & Visual Analytics
-* **B.Tech in Computer Science and Engineering**, IIT Kharagpur, 2023
+* **B.Tech in Chemical Engineering and Minor in Mathematics and Computing**, IIT Kharagpur, 2023
 
 Work Experience
 ======
