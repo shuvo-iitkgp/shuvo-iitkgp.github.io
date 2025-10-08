@@ -22,7 +22,7 @@ Education
 
 Work Experience
 ======
-* **Data Scientist | American Express**, Jun 2023 – Present  
+* **Data Scientist | American Express**, Jun 2023 – Jul 2025  
   * Developed and deployed ML solutions for analytics and decision support.  
   * Worked on interpretable ML methods including Data Shapley values.  
   * Collaborated with cross-functional teams to drive business insights.
