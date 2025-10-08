@@ -11,54 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Analytics**, Georgia Institute of Technology, Expected Dec 2026  
+  Focus: Machine Learning, Computational Statistics, Data & Visual Analytics
+* **B.Tech in Computer Science and Engineering**, IIT Kharagpur, 2023
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Data Scientist | American Express**, Jun 2023 – Present  
+  * Developed and deployed ML solutions for analytics and decision support.  
+  * Worked on interpretable ML methods including Data Shapley values.  
+  * Collaborated with cross-functional teams to drive business insights.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern | IIM Ahmedabad**, Summer 2022  
+  * Conducted research on ML applications in business analytics.  
+  * Published findings under guidance of faculty advisors.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Data Science Summer Intern | Truminds**, Summer 2021  
+  * Built predictive models and data pipelines for real-world datasets.  
+  * Presented insights to senior management.
 
-Publications
+Research & Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Teaching & Mentoring
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* **Programming & Tools:** Python, PyTorch, CUDA, SQL, Git, Jupyter, Pandas  
+* **Machine Learning & AI:** Interpretable ML, Graph ML, Deep Learning, Convex Optimization  
+* **Data Analysis & Visualization:** Data Shapley, Tableau, Matplotlib, Seaborn  
+* **Other:** Research writing, Academic presentation, Version control, Collaboration in Git/GitHub
+
+Service & Leadership
+======
+* Active participant in ML Theory Reading Group at Georgia Tech  
+* Helping fellow students as peer mentor in ML and Data Science topics  
+* Coordinated research collaborations with faculty at Georgia Tech and IIT Kharagpur
