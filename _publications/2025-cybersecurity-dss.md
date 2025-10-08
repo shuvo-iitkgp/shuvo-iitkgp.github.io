@@ -2,6 +2,7 @@
 title: "Enhancing cybersecurity risk assessment using temporal knowledge graph-based explainable decision support system"
 category: manuscripts
 authors: "Subhajit Bag, Sobhan Sarkar, Indranil Bose"
+venue: "Decision Support Systems"
 journal: "Decision Support Systems"
 pages: 114526
 publisher: "North-Holland"
