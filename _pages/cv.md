@@ -22,16 +22,16 @@ Education
 
 Work Experience
 ======
-* **Data Scientist | American Express**, Jun 2023 – Jul 2025  
+* **Data Scientist** | **American Express**, Jun 2023 – Jul 2025  
   * Developed and deployed ML solutions for analytics and decision support.  
   * Worked on interpretable ML methods including Data Shapley values.  
   * Collaborated with cross-functional teams to drive business insights.
 
-* **Research Intern | IIM Ahmedabad**, Summer 2022  
+* **Research Intern** | **IIM Ahmedabad**, Summer 2022  
   * Conducted research on ML applications in business analytics.  
   * Published findings under guidance of faculty advisors.
 
-* **Data Science Summer Intern | Truminds**, Summer 2021  
+* **Data Science Summer Intern** | **Truminds**, Summer 2021  
   * Built predictive models and data pipelines for real-world datasets.  
   * Presented insights to senior management.
 
