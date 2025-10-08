@@ -2,6 +2,7 @@
 title: "SENE: A novel manifold learning approach for distracted driving analysis with spatio-temporal and driver praxeological features"
 category: manuscripts
 authors: "Subhajit Bag, Rahul Golder, Sobhan Sarkar, Saptashwa Maity"
+venue: 'Engineering Applications of Artificial Intelligence'
 journal: "Engineering Applications of Artificial Intelligence"
 volume: 123
 pages: 106332
