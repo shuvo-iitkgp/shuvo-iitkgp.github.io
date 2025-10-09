@@ -26,7 +26,7 @@ My long-term goal is to pursue a **Ph.D. in Machine Learning or Artificial Intel
 
 ## Education
 
-- **M.S. in Analytics**, Georgia Institute of Technology (2024–2026)  
+- **M.S. in Analytics**, Georgia Institute of Technology (2025–2026)  
   Focus: Machine Learning, Data Science, and Computational Statistics  
 - **B.Tech in Computer Science and Engineering**, IIT Kharagpur (Graduated 2023)
 
@@ -34,8 +34,9 @@ My long-term goal is to pursue a **Ph.D. in Machine Learning or Artificial Intel
 
 ## Experience
 
-- **Data Scientist**, *American Express* (Jun 2023 – Present)  
-  Developing interpretable ML models and analytical tools for decision systems.  
+- **Data Scientist**, *American Express* (Jun 2023 – Jul 2025)  
+  Developed interpretable ML models and analytical tools for decision systems.
+  Built a Insight Generation Framework to automate case studies using Open Source LLMs.  
   Focused on Data Shapley and model explainability for real-world datasets.
 
 - **Research Intern**, *IIM Ahmedabad* (Summer 2022)  
