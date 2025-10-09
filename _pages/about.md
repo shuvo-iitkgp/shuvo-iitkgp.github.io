@@ -33,7 +33,7 @@ My long-term goal is to pursue a **Ph.D. in Machine Learning or Artificial Intel
 - **M.S. in Analytics**, Georgia Institute of Technology (2025–2026)  
   Focus: Machine Learning, Data Science, and Computational Statistics  
 
-- **B.Tech in Computer Science and Engineering**, IIT Kharagpur (Graduated 2023)
+- **B.Tech in Chemical Engineering with Minor in Mathematics**, IIT Kharagpur (Graduated 2023)
 
 ---
 
