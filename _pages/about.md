@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: home
 title: "About"
 permalink: /
+title: "About Me - Subhajit Bag"
 author_profile: true
 redirect_from: 
   - /about/
