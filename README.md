@@ -10,5 +10,5 @@ This repository contains all the source files for my personal academic website, 
 
 I am a graduate student at **Georgia Institute of Technology**, pursuing a Master's in Analytics (expected Dec 2026), with research interests in **Machine Learning, Interpretable AI, Graph Machine Learning, and Data Science**.  
 
-Previously, I completed my **B.Tech in Chemical Engineering with Minor in Mathematics** from **IIT Kharagpur** and have research experience through internships at **IIM Ahmedabad** and **Truminds**. I am also currently working as a **Data Scientist at American Express**.
+Previously, I completed my **B.Tech in Chemical Engineering with Minor in Mathematics** from **IIT Kharagpur** and have research experience through internships at **IIM Ahmedabad** and **Truminds**. I also worked as a **Analyst in AI Research at American Express**.
 
