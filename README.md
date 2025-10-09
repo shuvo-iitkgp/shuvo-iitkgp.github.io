@@ -1,6 +1,6 @@
 # Subhajit Bag – Academic Portfolio
 
-Welcome to my academic portfolio website, hosted on GitHub Pages: [https://shuvo-iitkgp.github.io/shuvo-iitkgp-github.io/](https://shuvo-iitkgp.github.io/shuvo-iitkgp-github.io/)
+Welcome to my academic portfolio website, hosted on GitHub Pages: [https://shuvo-iitkgp.github.io](https://shuvo-iitkgp.github.io/)
 
 This repository contains all the source files for my personal academic website, built using **Jekyll** and the **AcademicPages template**.
 
