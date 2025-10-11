@@ -10,22 +10,35 @@ redirect_from:
 Hi! I'm **Subhajit Bag**, a graduate student at the **Georgia Institute of Technology**, pursuing an **M.S. in Analytics** (expected December 2026).  
 I’m passionate about **Machine Learning**, **Interpretable AI**, and **Graph Representation Learning**, and I aim to use these tools to uncover deeper insights from complex data.
 
-My long-term goal is to pursue a **Ph.D. in Machine Learning or Artificial Intelligence**, contributing to the advancement of human knowledge through research at the intersection of **ML theory**, **explainability**, and **data-driven decision systems**.
+Research Interests
+===
 
+- **Interpretable Machine Learning** – Understanding how models make predictions  
+- **Graph Neural Networks (GNNs)** – Representation learning on structured data  
+- **Shapley Values & Data Valuation** – Quantifying the importance of training data  
+- **Optimization & Learning Theory** – Mathematical foundations of modern ML  
+- **Decision Support Systems** – Explainable models for high-stakes domains
 
+Education
+===
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+- **M.S. in Analytics**, Georgia Institute of Technology (2025–2026)  
+  Focus: Machine Learning, Data Science, and Computational Statistics  
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **B.Tech in Chemical Engineering with Minor in Mathematics**, IIT Kharagpur (Graduated 2023)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Experience
+===
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- **Analyst - AI Research**, *American Express* (Jun 2023 – Jul 2025)  
+  Developing interpretable ML models and analytical tools for decision systems.  
+  Focused on Data Shapley and model explainability for real-world datasets.
+
+- **Research Intern**, *IIM Ahmedabad* (Summer 2022)  
+  Worked on ML-driven decision frameworks for business analytics applications.
+
+- **Data Science Intern**, *Truminds Software Systems* (Summer 2021)  
+  Built predictive models and optimized performance of ML pipelines.
 
 Getting started
 ======
