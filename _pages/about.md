@@ -51,3 +51,10 @@ Publications
   *Authors:* Subhajit Bag, Rahul Golder, Sobhan Sarkar, Saptashwa Maity.  
 
 ➡️ See the complete list on my [**Publications**](/publications/) page.
+
+Beyond Research
+===
+Outside of academics, I enjoy:
+- Playing the **guitar and ukulele** 🎶  
+- Reading books on **philosophy, science, and creativity** 📚  
+- Loves learning languages and exploring different cultures 🌎 
