@@ -31,14 +31,19 @@ Experience
 ===
 
 - **Analyst - AI Research**, *American Express* (Jun 2023 – Jul 2025)  
-  Developing interpretable ML models and analytical tools for decision systems.  
+  Built a LLM powered Insight Generation Engine to automate case studies.  
   Focused on Data Shapley and model explainability for real-world datasets.
 
-- **Research Intern**, *IIM Ahmedabad* (Summer 2022)  
-  Worked on ML-driven decision frameworks for business analytics applications.
+- **Research Intern**, *IIM Ahmedabad* (Summer 2022)
+  Advisor - Prof. Indranil Bose
+  Research Area - Cybersecurity policy assessment using temporal knowledge graphs
+
+- **Research Intern**, *IIM Ranchi* (Summer 2022)
+  Advisor - Prof. Sobhan Sarkar
+  Research Area - Manifold learning, Traffic Safety Analytics.
 
 - **Data Science Intern**, *Truminds Software Systems* (Summer 2021)  
-  Built predictive models and optimized performance of ML pipelines.
+  Built interpretable models to find reasons behind tunnel down events in servers.
 
 Publications
 ===
