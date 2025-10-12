@@ -43,8 +43,8 @@ Research & Publications
 
 Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include portfolio.html  %}
+  <ul>{% for post in site.portfolio reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Skills
