@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Subhajit Bag"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Subhajit Bag"
 description              : &description "Machine Learning | Data Science | Georgia Tech | Graph"   # Update this with a general description of your site, this is the default if not overridden by a page
