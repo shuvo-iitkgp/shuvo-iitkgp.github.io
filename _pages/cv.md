@@ -41,16 +41,10 @@ Research & Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Projects
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching & Mentoring
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+    {% include portfolio.html  %}
   {% endfor %}</ul>
 
 Skills
@@ -59,9 +53,3 @@ Skills
 * **Machine Learning & AI:** Interpretable ML, Graph ML, Deep Learning, Convex Optimization  
 * **Data Analysis & Visualization:** Data Shapley, Tableau, Matplotlib, Seaborn  
 * **Other:** Research writing, Academic presentation, Version control, Collaboration in Git/GitHub
-
-Service & Leadership
-======
-* Active participant in ML Theory Reading Group at Georgia Tech  
-* Helping fellow students as peer mentor in ML and Data Science topics  
-* Coordinated research collaborations with faculty at Georgia Tech and IIT Kharagpur
