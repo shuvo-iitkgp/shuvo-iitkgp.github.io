@@ -13,6 +13,9 @@ main:
     
   - title: "Projects"
     url: /portfolio/
+
+  - title: "Hackathons"
+    url: /hackathons/
         
   - title: "Blog Posts"
     url: /year-archive/
