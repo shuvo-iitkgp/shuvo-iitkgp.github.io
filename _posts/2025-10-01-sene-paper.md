@@ -17,8 +17,8 @@ Key takeaways:
 - Reduced high-dimensional driving data into meaningful manifolds.
 - Achieved **91% accuracy** in predicting distraction-related risk.
 
-Link to the paper: DOI(https://www.sciencedirect.com/science/article/abs/pii/S095219762300516X)
-Youtube video : Video(#) (coming soon)
+Link to the paper: [DOI](https://www.sciencedirect.com/science/article/abs/pii/S095219762300516X)
+Youtube video : [Video](#) (coming soon)
 
 ### Why it matters
 Distracted driving is one of the top causes of accidents. SENE helps policymakers and insurance companies identify high-risk regions and understand *why* certain driving behaviors lead to accidents — not just *that* they do.
