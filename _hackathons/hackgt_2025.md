@@ -33,5 +33,5 @@ Python · LangChain · Mastra Framework · FastAPI · OpenAI API
 
 ## Links
 - [HackGT Official Site](https://hack.gt)  
-- [GitHub Repository](#) *(add link if available)*  
-- [Demo Video](#) *(optional)*
+- [GitHub Repository](https://github.com/KingdomClasher/BackpackMate-AI) 
+- [Demo Video](https://devpost.com/software/backpackmate-ai) 
