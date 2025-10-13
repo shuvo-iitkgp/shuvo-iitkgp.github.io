@@ -1,6 +1,6 @@
 ---
 title: 'Explaining SENE: Manifold Learning for Distracted Driving Analysis'
-date: 2025-10-01
+date: 2023-04-15
 permalink: /posts/2025/10/sene-manifold-learning/
 tags:
   - Research
