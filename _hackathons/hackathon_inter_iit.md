@@ -1,6 +1,6 @@
 ---
 title: "Open IIT Data Analytics | Sponsored by Brillio"
-excerpt: "Predicted popularity of 4000+ songs using ensemble models; secured **1st place out of 48 teams**.<br/><img src='/images/hackathons/openiit2021.png'>"
+excerpt: "Predicted popularity of 4000+ songs using ensemble models; secured **1st place out of 48 teams**.<br/><img src='/images/openiit2021.png'>"
 collection: hackathons
 ---
 
