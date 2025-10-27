@@ -1,6 +1,6 @@
 ---
 title: "HackGT 12: Crypt of Data | BackpackMate AI"
-excerpt: "Developed BackpackMate AI — a travel-planning phone agent built with the Mastra Framework and LLM-based retrieval pipelines.<br/><img src='/images/hackathons/hackgt2025.png'>"
+excerpt: "Developed BackpackMate AI — a travel-planning phone agent built with the Mastra Framework and LLM-based retrieval pipelines.<br/><img src='/images/hackgt_2025.png'>"
 collection: hackathons
 ---
 
