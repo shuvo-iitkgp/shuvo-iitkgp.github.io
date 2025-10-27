@@ -27,5 +27,5 @@ With the growing adoption of electric vehicles, uneven charging infrastructure c
 Python · Pandas · GeoPandas · scikit-learn · Folium · D3.js  
 
 ### Links
-- [GitHub Repository](#)
+- [GitHub Repository](https://github.com/shuvo-iitkgp/electramap-ai)
 - [Demo Dashboard](#)
