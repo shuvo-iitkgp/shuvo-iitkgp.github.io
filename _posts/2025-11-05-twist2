@@ -1,0 +1,66 @@
+---
+title: 'Teaching Humanoids Without MoCap: Inside TWIST2’s Portable Data Collection System'
+date: 2025-11-05
+permalink: /posts/2025/11/teaching-humanoids-twist2/
+tags:
+  - Humanoids
+  - AI
+  - VR
+---
+### Motivation
+How do we collect humanlike motion data for robots without a $100K motion-capture studio?
+
+TWIST2 is like a GoPro for humanoid learning i.e., small, cheap, portable and built to scale. 
+
+### Why Humanoid Data Collection is Hard
+
+- MoCap systems are accurate but expensive and bulky
+- VR based systems were either limited to partial control or lacked natural motion. 
+- Humanoids need full body, long horizon coordination: walking, bending, grasping, looking simultaneously. 
+---
+
+### What TWIST2 Does Differently
+- **Portable Setup** — A PICO 4U VR headset with two motion trackers replaces the MoCap suit. 
+- **Robot Side** — Unitree G1 humanoid with an attachable 2-DoF neck costing $250. 
+- **Human Control** — A single operator in VR becomes the robot. Moves arms, legs, and head naturally. 
+
+---
+### The Magic Pipeline (Explained Simply)
+- **Step 1** — Human moves in VR -> PICO streams motion at 100Hz
+- **Step 2** — Software retargets that motion to the robot's body 
+- **Step 3** — A learned motion tracking controller (trained via reinforcement learning) turns these into smooth, stable joint commands. 
+- **Step 4** — Robot acts in real time (<0.1 s delay)
+- **Step 5** — The entire run - camera view, motion data, commands is saved as demonstration data. 
+
+---
+### What they actually achieved 
+Tell the story visually
+- Folding towels with both hands
+- Picking up baskets, opening doors, and walking through
+- Performing dexterous pick-and-place and even kicking a box. 
+
+Quantify the efficiency: 
+- 100 successful demos in under 20 minutes
+- Single operator, no calibration, no lab studio. 
+
+---
+### How Robots Learn from the data
+Explain the next layer: the hierarchical policy
+- Low level controller keeps balance and tracks motion
+- High level Diffusion Policy predicts what motion comes next from the robot's own visual input. 
+- Result: a robot that can autonomously repeat complex whole body tasks it learned from human teleoperation
+---
+### Why it matters
+This is where you connect to the broader AI world: 
+- Democratizes humanoid learning: <$2K setup instead of lab infrastructure.
+- Enables open source, reproducible datasets for humanoid RL. 
+- Moves toward robots that can learn directly from natural human demonstrations. 
+---
+### Future & Limitations
+Balance hype with realism: 
+- VR tracking isn't as precise as MoCap
+- High speed motions still hard to reproduce
+- But the trade-off in portability, cost, and scalibility opens door for thousands for researchers. 
+---
+"The next time you put on a VR headset remember you might not just be playing a game. You could be teaching the next generation of robots how to move, see and live among us." 
+
