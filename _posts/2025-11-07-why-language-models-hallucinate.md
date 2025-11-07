@@ -9,8 +9,7 @@ tags:
   -Hallucination
 
 ---
-
- ![Why Language Models Hallucinate — exam incentives vs. uncertainty](images/why-language-models-hallucinate_schematic.png)
+<img src='/images/why-language-models-hallucinate_schematic.png'>
 *Figure: Binary grading makes “guess when unsure” optimal → higher hallucinations.  
 Confidence-aware grading (penalize wrong answers; allow IDK) makes abstention rational → lower hallucinations.* 
 
