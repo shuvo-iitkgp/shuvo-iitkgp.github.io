@@ -10,15 +10,6 @@ redirect_from:
 Hi! I'm **Subhajit Bag**, a graduate student at the **Georgia Institute of Technology**, pursuing an **M.S. in Analytics** (expected December 2026).  
 I’m passionate about **Machine Learning**, **Interpretable AI**, and **Graph Representation Learning**, and I aim to use these tools to uncover deeper insights from complex data.
 
-Research Interests
-===
-
-- **Interpretable Machine Learning** – Understanding how models make predictions  
-- **Graph Neural Networks (GNNs)** – Representation learning on structured data  
-- **Shapley Values & Data Valuation** – Quantifying the importance of training data  
-- **Optimization & Learning Theory** – Mathematical foundations of modern ML  
-- **Decision Support Systems** – Explainable models for high-stakes domains
-
 Education
 ===
 
@@ -35,11 +26,15 @@ Experience
   Focused on Data Shapley and model explainability for real-world datasets.
 
 - **Research Intern**, *IIM Ahmedabad* (Summer 2022)
+  
   Advisor - Prof. Indranil Bose
+  
   Research Area - Cybersecurity policy assessment using temporal knowledge graphs
 
 - **Research Intern**, *IIM Ranchi* (Summer 2022)
+  
   Advisor - Prof. Sobhan Sarkar
+  
   Research Area - Manifold learning, Traffic Safety Analytics.
 
 - **Data Science Intern**, *Truminds Software Systems* (Summer 2021)  
@@ -56,6 +51,16 @@ Publications
   *Authors:* Subhajit Bag, Rahul Golder, Sobhan Sarkar, Saptashwa Maity.  
 
 ➡️ See the complete list on my [**Publications**](/publications/) page.
+
+
+Research Interests
+===
+
+- **Interpretable Machine Learning** – Understanding how models make predictions  
+- **Graph Neural Networks (GNNs)** – Representation learning on structured data  
+- **Shapley Values & Data Valuation** – Quantifying the importance of training data  
+- **Optimization & Learning Theory** – Mathematical foundations of modern ML  
+- **Decision Support Systems** – Explainable models for high-stakes domains
 
 Beyond Research
 ===
