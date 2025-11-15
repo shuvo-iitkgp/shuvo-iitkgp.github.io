@@ -10,8 +10,7 @@ tags:
 
 ---
 <img src='/images/llm-influence-fact-training.png'>
-*Figure: Binary grading makes “guess when unsure” optimal → higher hallucinations.  
-Confidence-aware grading (penalize wrong answers; allow IDK) makes abstention rational → lower hallucinations.* 
+*Figure: Difference between the classical lexical retrieval and the influence based retrieval for large language models*
 
 ## Motivation
 
