@@ -7,19 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Subhajit Bag**, a graduate student at the **Georgia Institute of Technology**, pursuing an **M.S. in Analytics** (expected December 2026).  
-I’m passionate about **Machine Learning**, **Interpretable AI**, and **Graph Representation Learning**, and I aim to use these tools to uncover deeper insights from complex data.
+Hi! I'm **Subhajit Bag**, an M.S. in Computer Science student at the Georgia Institute of Technology, specializing in Computational Perception and Robotics.
+
+My interests lie broadly at the intersection of machine learning, computer vision, reinforcement learning, and intelligent systems. I am particularly interested in understanding the mathematical foundations of learning while building reliable ML systems that can operate on complex, real-world data.
 
 Education
 ===
 
-- **M.S. in Analytics**, Georgia Institute of Technology (2025–2026)  
-  Focus: Machine Learning, Data Science, and Computational Statistics  
+- **M.S. in Computer Science**, Georgia Institute of Technology (2025–2027)
 
-- **B.Tech in Chemical Engineering with Minor in Mathematics**, IIT Kharagpur (Graduated 2023)
+Coursework includes Machine Learning, Deep Reinforcement Learning, Computer Vision, Graduate Algorithms, Probabilistic Graphical Models, Machine Learning with Graphs, and Computational Statistics.  
+
+- **B.Tech in Chemical Engineering with Minor in Mathematics**, IIT Kharagpur (2019-2023)
 
 Experience
 ===
+
+- **Graduate Researcher**, Georgia Institute of Technology, D2I Lab (Aug 2026–Present)
+
+Advisor: Prof. Kexin Rong
+
+Working on robust spatio-temporal querying over perception-derived video data. My work explores object detection and tracking pipelines, visual embeddings, trajectory representations, natural-language interfaces, and the effect of noisy perception outputs on downstream video queries
+
+- **Data Science Intern** , Zoox (May 2026 - Aug 2026)
+
+Worked on data science and ML problems supporting autonomous-vehicle data pipelines, data integrity monitoring, and knowledge-based systems. I also evaluated and improved an internal knowledge-base agent and contributed to tooling for large-scale AV data workflows.
 
 - **Analyst - AI Research**, *American Express* (Jun 2023 – Jul 2025)  
   Built a LLM powered Insight Generation Engine to automate case studies.  
@@ -57,8 +69,8 @@ Research Interests
 ===
 
 - **Interpretable Machine Learning** – Understanding how models make predictions  
-- **Graph Neural Networks (GNNs)** – Representation learning on structured data  
-- **Shapley Values & Data Valuation** – Quantifying the importance of training data  
+- **Machine Learning Systems** – Reliable and scalable systems for training, evaluating, and deploying ML models  
+- **Data-Centric AI** – Understanding how data quality, noise, and representation affect downstream model behavior  
 - **Optimization & Learning Theory** – Mathematical foundations of modern ML  
 - **Decision Support Systems** – Explainable models for high-stakes domains
 
